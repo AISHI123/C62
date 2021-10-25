@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+#logo{
+    width: 600px;
+    height: 600px;
+}
+#sunflower{
+    width: 280px;
+    height: 180px;
+        
+}
+#tulip{
+     width: 200px;
+    height: 200px;
+}
+#whiteflower{
+     width: 280px;
+    height: 200px;
+}
+#purple{
+     width: 235px;
+    height: 190px;
+}
+#dragonflower{
+     width: 280px;
+    height: 180px;
+}
+#pinkflower{
+     width: 260px;
+    height: 180px;
+}
+#myCarousel img{
+    height: 550px;
+}
